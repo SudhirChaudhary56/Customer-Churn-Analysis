@@ -8,8 +8,6 @@ Predict customer churn and identify strategies to improve customer retention.
 - Pandas
 - NumPy
 - Scikit-Learn
-- SQL
-- Power BI
 
 ## Dataset
 Telco Customer Churn Dataset
